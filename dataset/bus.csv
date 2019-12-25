@@ -1,0 +1,10 @@
+mode,country/city,ID,x,y,rad,color
+bus,CN/Beijing,1,2,2,1,#ff0000
+bus,CN/Beijing,2,4,4,2,#ffff00
+bus,CN/Beijing,3,8,8,4,#00ff00
+bus,CN/Beijing,4,16,16,8,#0000ff
+bus,CN/Beijing,5,32,32,16,#00ffff
+bus,CN/Beijing,6,64,64,32,#ff00ff
+bus,CN/Beijing,7,128,128,64,#ffffff
+bus,CN/Beijing,8,256,256,128,#fffff0
+bus,CN/Beijing,9,512,512,256,#f0fff0
